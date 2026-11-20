@@ -1,5 +1,5 @@
 Monitor de Compras: exportação leve
-Gerada em 2026-11-19 23:07:47 (Brasília). Código no commit e8478e3ab2e7840d3e030ef820791aedaa2f7644 (preparado em 2026-11-18 23:24:44).
+Gerada em 2026-11-19 23:10:45 (Brasília). Código no commit e8478e3ab2e7840d3e030ef820791aedaa2f7644 (preparado em 2026-11-18 23:24:44).
 
 codigo/            frontend, backend (as Server Functions ficam em backend/sf) e os documentos do projeto. Sem node_modules e sem .env.
 banco/estrutura.sql  CREATE TABLE de todas as tabelas do app.
@@ -7,7 +7,7 @@ banco/dados/        uma planilha CSV (UTF-8) por tabela.
 
 Tabelas:
   EXPORT_CODIGO: só a estrutura (2 linhas no banco)
-  EXPORT_LEVE: só a estrutura (8 linhas no banco)
+  EXPORT_LEVE: só a estrutura (9 linhas no banco)
   MC_CONFIG: 3 linhas
   MC_ESTADO_OFERTA: 9 linhas
   MC_FAIXA: 3 linhas

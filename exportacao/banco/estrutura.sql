@@ -1,5 +1,5 @@
 -- Estrutura do banco do Monitor de Compras
--- Gerado em 2026-11-19T23:07:46 (Brasília)
+-- Gerado em 2026-11-19T23:10:45 (Brasília)
 
 CREATE TABLE IF NOT EXISTS `EXPORT_CODIGO` (
   `ID` int NOT NULL AUTO_INCREMENT,
