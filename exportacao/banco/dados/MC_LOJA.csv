@@ -1,0 +1,23 @@
+﻿ID,NOME,DOMINIO,URL_BUSCA,TIPO,PADRAO,ATIVA,APELIDOS,ORDEM,CRIADO_EM
+1,Amazon,amazon.com.br,https://www.amazon.com.br/s?k={q},LOJA,1,1,,1,2026-11-12T14:11:22
+2,Mercado Livre,mercadolivre.com.br,https://lista.mercadolivre.com.br/{q-},LOJA,1,1,,2,2026-11-12T14:11:22
+3,Magalu,magazineluiza.com.br,https://www.magazineluiza.com.br/busca/{q%}/,LOJA,1,1,,3,2026-11-12T14:11:22
+4,Kabum,kabum.com.br,https://www.kabum.com.br/busca/{q-},LOJA,1,1,,4,2026-11-12T14:11:22
+5,Google Shopping,google.com,https://www.google.com/search?tbm=shop&hl=pt-BR&gl=br&q={q},COMPARADOR,1,1,,5,2026-11-12T14:11:22
+6,Buscapé,buscape.com.br,https://www.buscape.com.br/search?q={q%},COMPARADOR,1,1,,6,2026-11-12T14:11:22
+7,Zoom,zoom.com.br,https://www.zoom.com.br/search?q={q%},COMPARADOR,1,1,,7,2026-11-12T14:11:22
+8,Angeloni,angeloni.com.br,vtex:https://super.angeloni.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,8,2026-11-12T14:11:22
+9,Bistek,bistek.com.br,vtex:https://www.bistek.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,9,2026-11-12T14:11:22
+10,Carrefour,carrefour.com.br,https://www.carrefour.com.br/busca/{q%},LOJA,1,1,,10,2026-11-12T14:11:22
+11,Droga Raia,drogaraia.com.br,https://www.drogaraia.com.br/search?w={q%},LOJA,1,1,,11,2026-11-12T14:11:22
+12,Panvel,panvel.com,https://www.panvel.com/panvel/buscarProduto.do?termoPesquisa={q%},LOJA,1,1,,12,2026-11-12T14:11:22
+13,Preço Popular,precopopular.com.br,vtex:https://www.precopopular.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,13,2026-11-12T14:11:22
+14,Busca aberta na web,,https://lite.duckduckgo.com/lite/?q={q}+preco,BUSCA,1,1,,14,2026-11-12T14:11:22
+16,Pague Menos,paguemenos.com.br,vtex:https://www.paguemenos.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,15,2026-11-13T11:18:17
+17,São João,saojoaofarmacias.com.br,vtex:https://www.saojoaofarmacias.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,16,2026-11-13T11:18:17
+18,FarmaSesi,farmasesi.com.br,farmasesi:https://www.farmasesi.com.br/busca?q={q%},LOJA,1,1,,17,2026-11-13T11:18:17
+19,Giassi,giassi.com.br,vtex:https://www.giassi.com.br/api/catalog_system/pub/products/search?ft={q%}&_from=0&_to=19,LOJA,1,1,,18,2026-11-13T11:18:17
+20,Fort Atacadista,fortatacadista.com.br,web:https://www.fortatacadista.com.br/busca?q={q%},LOJA,1,1,,19,2026-11-13T11:18:17
+21,Koch,superkoch.com.br,web:https://www.superkoch.com.br/busca?q={q%},LOJA,1,1,,20,2026-11-13T11:18:17
+22,Koerich,koerich.com.br,occ:https://www.koerich.com.br/ccstoreui/v1/search?Ntt={q%}&Nrpp=20,LOJA,1,1,,21,2026-11-13T11:18:17
+23,Colombo,colombo.com.br,ldjson:https://www.colombo.com.br/busca?q={q%},LOJA,1,1,,22,2026-11-13T11:18:17

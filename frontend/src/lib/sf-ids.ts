@@ -1,0 +1,21 @@
+export const SF = {
+  "alternarLoja": 53,
+  "buscarAgora": 61,
+  "cancelarProduto": 52,
+  "enviarMensagem": 57,
+  "exportar": 67,
+  "exportarGit": 68,
+  "intAdicionarLoja": 43,
+  "intSalvarHorario": 44,
+  "linksPrints": 58,
+  "removerLoja": 54,
+  "salvarFaixas": 50,
+  "salvarProduto": 51,
+  "telaConfig": 49,
+  "telaConversa": 45,
+  "telaExportar": 66,
+  "telaGrafico": 48,
+  "telaNotificacoes": 62,
+  "telaProdutos": 46,
+  "telaUltimaRodada": 47
+} as const;
